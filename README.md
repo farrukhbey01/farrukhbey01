@@ -40,7 +40,7 @@
         <a href="https://www.instagram.com/sokhibovich_f/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sokhibovich_f" height="30" width="40" /></a>
     </span>
     <span>
-    <a href="https://t.me/Farrukh_Py/" target="blank">
+    <a href="https://t.me/farruukh_bey/" target="blank">
         <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Farrukh_Py" height="30" width="30" />
     </a>
 </p>
